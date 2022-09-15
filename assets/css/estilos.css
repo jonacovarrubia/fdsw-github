@@ -37,3 +37,7 @@ body {
   }
 
 }
+
+.card-body{
+  background-color: rgb(175, 148, 138);
+}
